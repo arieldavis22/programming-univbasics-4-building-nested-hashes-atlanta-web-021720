@@ -26,7 +26,7 @@ def monopoly_with_third_tier
 	test_hash = {
 		:railroads => {
 			:pieces => 4
-			:rent_in_dollars => "la"
+			:rent_in_dollars => "r"
 		}
 	}
 end
